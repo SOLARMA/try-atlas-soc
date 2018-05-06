@@ -15,6 +15,4 @@
   - Makers
 * 18:30 Closing Remarks
 
-TODO: @massimoviolante to complete
-
 <!-- EOF -->
